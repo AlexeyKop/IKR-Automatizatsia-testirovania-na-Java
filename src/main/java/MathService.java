@@ -1,6 +1,12 @@
 public class MathService {
 
     public Pair getAnswer(int a, int b, int c) throws NotFoundAnswerException {
+
+        if (a == 0) {
+            throw new IllegalArgumentException("Коэффициент 'a' не может быть равен 0");
+        }
+
+
         int d = getD(a,b,c);
         if (d < 0) {
             throw new NotFoundAnswerException("Корни не могут быть найдены");
@@ -10,8 +16,8 @@ public class MathService {
             return new Pair(x,x);
         }
         if (d > 0) {
-            Double x1 = (-b + Math.sqrt(d)) / (2 + a);
-            Double x2 = (-b - Math.sqrt(d)) / (2 + a);
+            Double x1 = (-b + Math.sqrt(d)) / (2 * a);
+            Double x2 = (-b - Math.sqrt(d)) / (2 * a);
             return new Pair(x1, x2);
         }
         return null;
