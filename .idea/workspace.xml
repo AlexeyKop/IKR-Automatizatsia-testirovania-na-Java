@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acb87862-5020-4c16-be8a-80e3badeeb7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MathServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MathService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MathService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pOEObIsTPIauKWYRvopGz4uIJf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainLibraryRegistry.executor": "Run",
+    "JUnit.MathServiceTest.executor": "Run",
+    "JUnit.MathServiceTest.testGetAnswerInvalidA.executor": "Run",
+    "JUnit.MathServiceTest.testGetAnswerNoRoots.executor": "Run",
+    "JUnit.MathServiceTest.testGetAnswerOneRoot.executor": "Run",
+    "JUnit.MathServiceTest.testGetAnswerTwoRoots.executor": "Run",
+    "JUnit.MathServiceTest.testGetD.executor": "Run",
+    "Maven.finaltest [clean].executor": "Run",
+    "Maven.finaltest [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "test2",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MathServiceTest">
+    <configuration name="MathServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetAnswerInvalidA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetAnswerInvalidA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetAnswerNoRoots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetAnswerNoRoots" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetAnswerOneRoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetAnswerOneRoot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathServiceTest.testGetAnswerTwoRoots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="METHOD_NAME" value="testGetAnswerTwoRoots(int,int,int,double,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathServiceTest" />
+        <item itemvalue="JUnit.MathServiceTest.testGetAnswerInvalidA" />
+        <item itemvalue="JUnit.MathServiceTest.testGetAnswerNoRoots" />
+        <item itemvalue="JUnit.MathServiceTest.testGetAnswerOneRoot" />
+        <item itemvalue="JUnit.MathServiceTest.testGetAnswerTwoRoots" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb87862-5020-4c16-be8a-80e3badeeb7b" name="Changes" comment="" />
+      <created>1707510135625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707510135625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
