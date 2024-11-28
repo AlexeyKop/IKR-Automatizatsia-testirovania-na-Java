@@ -1,3 +1,2 @@
-MathService.class
-Pair.class
-NotFoundAnswerException.class
+com\max\BookingService.class
+com\max\CantBookException.class
