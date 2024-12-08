@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.concurrent.TimeUnit;
 
-public class UITest {
+public class UITest_old {
 
     @Test
     void testGBNotEmailLogin() {
